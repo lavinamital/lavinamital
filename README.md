@@ -3,7 +3,7 @@
 My name is Lavina Mital. I'm a Data Science student at NYU going into my second year. I have a huge passion for everything data science, and look forward to gaining experience in the field.
 - 👀 I’m currently working at ...
 - 🌱 Relavent Coursework: ...
-- 💞️ I’m looking to collaborate on innovative and interesting projects in the Data Science space
+- 💞️ I’m looking to collaborate on innovative and interesting projects in the data science space
 - 📫 Feel free to reach me @ lavinamital@gmail.com
 
 <!---
